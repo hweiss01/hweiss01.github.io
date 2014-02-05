@@ -1,9 +1,3 @@
-1.As far as I know everything has been correctly implemented per instructions.
-2. I didn't collaborate with anyone about this, though I found some help on how to do things on the Piazza site.
-3. I spent about 2 hours?
-
-
-
 I created 3 webpages kept in my github directory hweiss01.github.io.
 These are index.html, resume.html, bio.html.
 Each of these documents has a matching css stylesheet, so index.css, 
@@ -26,7 +20,4 @@ a short, sweet bio about me.
 index.html: this is my homepage and you can access it by typing 
 http://hweiss01.github.io
 it contains my name, a photo of catbug, instead of me, a link to my resume 
-and to my bio. The URI for the image is not an absolute URI, but instead a 
-relative
-
-
+and to my bio.
