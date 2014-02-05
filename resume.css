@@ -1,0 +1,31 @@
+body{
+	font-family: Palatino, serif;
+	color: green;
+
+}
+
+h1{
+
+	font-weight:bolder;
+	font-size: 50px;
+}
+
+.ital{
+	font-style: italic;
+}
+
+.bold{
+	font-weight:bold;
+}
+
+.head{
+	font-size: 20px;
+	font-weight:900;
+
+}
+
+.indent{
+	padding-left: 20px;
+	display:block;
+
+}
